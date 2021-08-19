@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(169, 184, 161);
+    color: rgb(16, 21, 66);
+}
+
+#resume {
+    text-align: center;
+}
+
+.details {
+    border-radius: 5px;
+    width: 20%;
+}
+
+textarea {
+    border-radius: 5px;
+}
+
+#submit {
+    background-color: black;
+    color: blanchedalmond;
+    border-radius: 20px;
+    width: 20%;
+}
